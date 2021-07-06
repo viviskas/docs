@@ -5,7 +5,7 @@ intro: 'You can use the {% data variables.product.prodname_dotcom %} REST API to
 redirect_from:
   - /v3
 versions:
-  fpt: '*'
+  fpt: 'false'
   ghes: '*'
   ghae: '*'
 children:
